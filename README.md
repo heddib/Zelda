@@ -1,7 +1,7 @@
 # Zelda
 > Gère les langues du bot Hylia
 
-### Sturcture du dossier pour les langues
+### Structure du dossier pour les langues
 ```bash
 ProjectDir/
 └─── locales
