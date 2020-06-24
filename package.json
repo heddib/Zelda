@@ -1,5 +1,5 @@
 {
-  "name": "locke",
+  "name": "zelda",
   "version": "0.0.2",
   "description": "Gestion des langues du bot Hylia.",
   "main": "./src/index.js",
