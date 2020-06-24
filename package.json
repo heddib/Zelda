@@ -1,6 +1,6 @@
 {
   "name": "locke",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gestion des langues du bot Hylia.",
   "main": "./src/index.js",
   "scripts": {
