@@ -11,7 +11,7 @@ class Zelda {
    * @param {Object} [options] The options for initializing Zelda.
    * @param {String} [options.localesDir='locales'] The name of the directory
    * where locales are stored.
-   * @param {String} [options.defaultLocale='fr_fr'] The default locale.
+   * @param {String} [options.defaultLocale='en_us'] The default locale.
    */
   constructor(options = {}) {
     /* eslint-disable no-sync */
@@ -39,7 +39,7 @@ class Zelda {
       this._defaultLocale = options.defaultLocale;
     }
     else {
-      this._defaultLocale = 'fr_fr';
+      this._defaultLocale = 'en_us';
     }
 
     // Available strings
